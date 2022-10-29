@@ -1,0 +1,14 @@
+E:\bridgelab\EmployPayRoll\EmployPayRoll\bin\Debug\netcoreapp3.1\EmployPayRoll.exe
+E:\bridgelab\EmployPayRoll\EmployPayRoll\bin\Debug\netcoreapp3.1\EmployPayRoll.deps.json
+E:\bridgelab\EmployPayRoll\EmployPayRoll\bin\Debug\netcoreapp3.1\EmployPayRoll.runtimeconfig.json
+E:\bridgelab\EmployPayRoll\EmployPayRoll\bin\Debug\netcoreapp3.1\EmployPayRoll.runtimeconfig.dev.json
+E:\bridgelab\EmployPayRoll\EmployPayRoll\bin\Debug\netcoreapp3.1\EmployPayRoll.dll
+E:\bridgelab\EmployPayRoll\EmployPayRoll\bin\Debug\netcoreapp3.1\EmployPayRoll.pdb
+E:\bridgelab\EmployPayRoll\EmployPayRoll\obj\Debug\netcoreapp3.1\EmployPayRoll.csproj.AssemblyReference.cache
+E:\bridgelab\EmployPayRoll\EmployPayRoll\obj\Debug\netcoreapp3.1\EmployPayRoll.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\EmployPayRoll\EmployPayRoll\obj\Debug\netcoreapp3.1\EmployPayRoll.AssemblyInfoInputs.cache
+E:\bridgelab\EmployPayRoll\EmployPayRoll\obj\Debug\netcoreapp3.1\EmployPayRoll.AssemblyInfo.cs
+E:\bridgelab\EmployPayRoll\EmployPayRoll\obj\Debug\netcoreapp3.1\EmployPayRoll.csproj.CoreCompileInputs.cache
+E:\bridgelab\EmployPayRoll\EmployPayRoll\obj\Debug\netcoreapp3.1\EmployPayRoll.dll
+E:\bridgelab\EmployPayRoll\EmployPayRoll\obj\Debug\netcoreapp3.1\EmployPayRoll.pdb
+E:\bridgelab\EmployPayRoll\EmployPayRoll\obj\Debug\netcoreapp3.1\EmployPayRoll.genruntimeconfig.cache
